@@ -1,0 +1,21 @@
+Using cloud services share responsibility of management kind of things 
+Thus we have 3 models based on shared responsibility
+1. IaaS- Infrastructure as service:
+No Opex Cost
+Agile
+Flexibilty
+Cloud benefit
+Pay as per use
+
+But requires management of thing like operating system updates, setup , firewall ,security management
+
+
+2. PaaS - Platforn as service: 
+Same benefit like IaaS just dependancy of platform management means problematic when some software require specific operatiing system.
+And this model doesn't include handling of security and operating system.
+It focus on productivity
+
+3. SaaS - Software as service:
+Ex. Hosted softwares that we use on subscription basis like MSOffice
+So don't need to care about hosting , management
+No upfront cost, Pay as per use
