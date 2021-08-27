@@ -1,0 +1,5 @@
+Following are azure network service:
+Azure application gateway: Web traffice load balancer, manager web traffice of apps
+Azure load balancers: Load balance incoming trafic and internal trafic.
+Azure VPN gateway : sent encrypted traffice over public network
+Azure virtual network : Allow to communicate resource , scoped to single region
