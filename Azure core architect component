@@ -1,0 +1,12 @@
+Azure have largest no of data centres:
+Azure have diff. geographies defined like : East europe ,Asia
+Inside diff. Geographies it have regions.
+Every regions have atleast one data centre
+
+Geography --> Regions --> datacentre
+
+Azure have paird datacentre to provide fault tolerance
+Every regions have availibilty zones which have fault domain , update domain
+
+To group container who share same life cycle , Azure have resource groups.
+IT aggregates resource into single managable unit
