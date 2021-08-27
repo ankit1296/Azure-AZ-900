@@ -1,0 +1,6 @@
+Lightweight compared to virtual machine
+Used to deploy and manage app on container
+
+Two service for containers:
+Azure container service: allow to upload multiple container
+Azure kubernates service: allow to manage multiple container
