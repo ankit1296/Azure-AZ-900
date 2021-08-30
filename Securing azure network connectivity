@@ -1,0 +1,17 @@
+Layered network security protection enabled in azure
+layers in security:
+Physical -: physical protection to h
+Identity-: controls access
+Perimeter -: prevent DDos through firewall
+Network -: Limit netowrk through inbound outbound access
+Compute -:
+Application - ensures individual app is secure
+
+For better security NSG is there 
+NSG (network security groups)
+
+layered group so security dont compromised if one fails
+
+Azure firewall:
+high availability
+azure monitor
